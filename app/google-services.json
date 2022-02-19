@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "839034067676",
-    "firebase_url": "https://guftgo-fe3ec.firebaseio.com",
-    "project_id": "guftgo-fe3ec",
-    "storage_bucket": "guftgo-fe3ec.appspot.com"
+    "project_number": "412932925334",
+    "project_id": "meetall-113a5",
+    "storage_bucket": "meetall-113a5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:839034067676:android:0c933895b6d7e56350f219",
+        "mobilesdk_app_id": "1:412932925334:android:c67ef115504cd6eb111fb7",
         "android_client_info": {
-          "package_name": "com.example.guftgo"
+          "package_name": "com.meetall"
         }
       },
       "oauth_client": [
         {
-          "client_id": "839034067676-2oa704t5i9v6sadmqro491kjgfdvhs1u.apps.googleusercontent.com",
+          "client_id": "412932925334-bpv16t14hscs1ahs0dkkhoi3vljqjs7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meetall",
+            "certificate_hash": "5e4407f1c86115474019b1869d406f4cbf65a12f"
+          }
+        },
+        {
+          "client_id": "412932925334-o4335sc9or0ngft3vq66k33um5vkb7vk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCLg70t_1TDkaF59QCWpg5ijgeIAIuhIgk"
+          "current_key": "AIzaSyCrxMLEUtyg_A0UdULkusBzKXoMuL9j-tY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "839034067676-2oa704t5i9v6sadmqro491kjgfdvhs1u.apps.googleusercontent.com",
+              "client_id": "412932925334-o4335sc9or0ngft3vq66k33um5vkb7vk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
