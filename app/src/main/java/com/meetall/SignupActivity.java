@@ -1,4 +1,4 @@
-package com.example.guftgo;
+package com.meetall;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

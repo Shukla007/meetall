@@ -1,4 +1,4 @@
-package com.example.guftgo;
+package com.example.meetall;
 
 import org.junit.Test;
 
