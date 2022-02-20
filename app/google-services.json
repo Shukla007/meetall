@@ -1,26 +1,19 @@
 {
   "project_info": {
     "project_number": "412932925334",
+    "firebase_url": "https://meetall-113a5-default-rtdb.firebaseio.com",
     "project_id": "meetall-113a5",
     "storage_bucket": "meetall-113a5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:412932925334:android:c67ef115504cd6eb111fb7",
+        "mobilesdk_app_id": "1:412932925334:android:1cb76d94600e2b02111fb7",
         "android_client_info": {
-          "package_name": "com.meetall"
+          "package_name": "com.smart.meetall"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "412932925334-bpv16t14hscs1ahs0dkkhoi3vljqjs7p.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.meetall",
-            "certificate_hash": "5e4407f1c86115474019b1869d406f4cbf65a12f"
-          }
-        },
         {
           "client_id": "412932925334-o4335sc9or0ngft3vq66k33um5vkb7vk.apps.googleusercontent.com",
           "client_type": 3

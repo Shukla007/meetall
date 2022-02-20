@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.meetall">
+    package="com.smart.meetall">
 
     <application
         android:allowBackup="true"
@@ -9,17 +9,25 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.meetall.DashboardActivity" />
         <activity
-            android:name="com.meetall.SignupActivity"
+            android:name="com.smart.meetall.forgot"
+            android:parentActivityName="com.smart.meetall.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.smart.meetall.history"
+            android:exported="false"
+            android:parentActivityName="com.smart.meetall.DashboardActivity" />
+        <activity android:name="com.smart.meetall.DashboardActivity" />
+        <activity
+            android:name="com.smart.meetall.SignupActivity"
             android:label="New Account" />
         <activity
-            android:name="com.meetall.LoginActivity"
+            android:name="com.smart.meetall.LoginActivity"
             android:label="Login" />
         <activity
-            android:name="com.meetall.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar"
-            android:exported="true">
+            android:name="com.smart.meetall.MainActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

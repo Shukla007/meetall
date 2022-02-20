@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background"
+    android:background="@drawable/tile_background"
     tools:context=".SignupActivity">
 
     <androidx.cardview.widget.CardView
@@ -23,6 +23,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="10dp"
+            android:padding="5dp"
             android:orientation="vertical">
 
             <ImageView
@@ -30,7 +31,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:layout_marginBottom="10dp"
-                app:srcCompat="@drawable/meeting" />
+                app:srcCompat="@drawable/logoblack" />
 
             <TextView
                 android:id="@+id/textView"
@@ -39,7 +40,7 @@
                 android:layout_marginBottom="20dp"
                 android:fontFamily="@font/denk_one"
                 android:gravity="center"
-                android:text="Guftgo"
+                android:text="Meet All"
                 android:textColor="@android:color/black"
                 android:textSize="30sp" />
 
